@@ -1,5 +1,5 @@
 import { Fragment } from 'react'
-import { useParams , Route} from 'react-router-dom'
+import { useParams , Route } from 'react-router-dom'
  
 const QuoteDetail = () => {
     const params = useParams()
